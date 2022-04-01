@@ -1,0 +1,110 @@
+<style>
+#formulario{
+width:600px;
+margin:0 auto 60px;
+text-align:center;
+background:#C1FFC1;
+border:1px #009900 solid;
+padding:5px 10px;
+}
+
+
+#formulario .mensagem{
+color:#FFFFFF;
+font:26px Arial, Helvetica, sans-serif;
+padding:4px;
+background:#FF6262;
+width:400px;
+margin:14px auto 0 auto;
+border:#FF0000 2px solid;
+}
+
+
+#formulario form{
+width:600px;
+margin:0 auto;
+padding:20px 0 10px 0;
+border:0;
+}
+#formulario fieldset{
+border:0px #006600 solid;
+padding:10px;
+}
+#formulario legend{
+font:20px Arial, Helvetica, sans-serif;
+color:#005E2F;
+font-weight:bold;
+text-shadow:1px 1px 3px #999999;
+}
+#formulario label{
+font:14px Arial, Helvetica, sans-serif;
+color:#005E2F;
+font-weight:bold;
+text-shadow:1px 1px 2px #999999;
+display:block;
+text-align:left;
+margin:4px 0;
+padding:0 10px;
+}
+#formulario input{
+border:1px #009933 solid;
+padding:4px;
+margin:1px;
+width:540px;
+display:block;
+color:#006600;
+font:16px Arial, Helvetica, sans-serif;
+font-weight:bold;
+}
+#formulario .btn_calendario{
+border:1px #009933 solid;
+padding:0 2px 6px;
+margin:4px auto;
+width:40px;
+display:block;
+color:#FF0000;
+font:16px Arial, Helvetica, sans-serif;
+font-weight:bold;
+}
+#formulario textarea{
+border:1px #009933 solid;
+padding:4px;
+margin:1px;
+width:540px;
+display:block;
+color:#006600;
+font:16px Arial, Helvetica, sans-serif;
+font-weight:bold;
+}
+#formulario select{
+border:1px #009933 solid;
+padding:4px;
+margin:1px;
+width:350px;
+display:block;
+color:#FF0000;
+font:16px Arial, Helvetica, sans-serif;
+font-weight:bold;
+}
+#formulario .btn_enviar{
+width:120px;
+height:40px;
+border:2px #008000 solid;
+padding:0;
+margin:10px auto 0px;
+background:#FFFFFF;
+cursor:pointer;
+}
+#formulario .btn_enviar:hover{
+width:120px;
+height:40px;
+border:2px #008000 solid;
+padding:0;
+margin:10px auto 0px;
+background:#AAFFAA;
+}
+#formulario .hidden{
+border:0;
+background:#C1FFC1;
+}
+</style>
